@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.155" height="37.903" viewBox="0 0 29.155 37.903">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dedff"/>
+      <stop offset="1" stop-color="#00a2c1"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_ionic-ios-water" data-name="Icon ionic-ios-water" d="M30.074,12.341a40.742,40.742,0,0,0-8.273-8.8.779.779,0,0,0-.948-.009,40.244,40.244,0,0,0-8.245,8.792C9.21,17.06,6.868,22.2,6.759,27.893c0,.109-.009.228-.009.337a11.907,11.907,0,0,0,.993,4.747,12.8,12.8,0,0,0,1.385,2.4,15.04,15.04,0,0,0,12.191,5.9c8.054,0,14.587-5.84,14.587-13.047C35.905,22.426,33.445,17.1,30.074,12.341ZM22.239,36.421h-.046a.8.8,0,0,1-.237-1.558A11.344,11.344,0,0,0,29.828,27.5a.793.793,0,0,1,1.531.282v.128C31.35,32.613,27.268,36.421,22.239,36.421Z" transform="translate(-6.75 -3.374)" fill="url(#linear-gradient)"/>
+</svg>

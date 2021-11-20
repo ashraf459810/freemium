@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="24.5" viewBox="0 0 28 24.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.04" y1="0.084" x2="0.061" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc137"/>
+      <stop offset="1" stop-color="#e76016"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-toolbox" data-name="Icon awesome-toolbox" d="M27.488,12.238,25.013,9.763a1.75,1.75,0,0,0-1.238-.512H21V4.875A2.625,2.625,0,0,0,18.375,2.25H9.625A2.625,2.625,0,0,0,7,4.875V9.25H4.225a1.751,1.751,0,0,0-1.238.512L.512,12.238A1.75,1.75,0,0,0,0,13.475V18H7v-.875a.875.875,0,0,1,.875-.875h1.75a.875.875,0,0,1,.875.875V18h7v-.875a.875.875,0,0,1,.875-.875h1.75a.875.875,0,0,1,.875.875V18h7V13.475A1.75,1.75,0,0,0,27.488,12.238ZM17.5,9.25h-7V5.75h7ZM21,20.625a.875.875,0,0,1-.875.875h-1.75a.875.875,0,0,1-.875-.875V19.75h-7v.875a.875.875,0,0,1-.875.875H7.875A.875.875,0,0,1,7,20.625V19.75H0V25a1.75,1.75,0,0,0,1.75,1.75h24.5A1.75,1.75,0,0,0,28,25V19.75H21Z" transform="translate(0 -2.25)" fill="url(#linear-gradient)"/>
+</svg>

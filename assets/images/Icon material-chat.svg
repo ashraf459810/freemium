@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.529" height="25.529" viewBox="0 0 25.529 25.529">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.04" y1="0.084" x2="0.061" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc137"/>
+      <stop offset="1" stop-color="#e76016"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-chat" data-name="Icon material-chat" d="M25.976,3H5.553a2.549,2.549,0,0,0-2.54,2.553L3,28.529l5.106-5.106h17.87a2.56,2.56,0,0,0,2.553-2.553V5.553A2.56,2.56,0,0,0,25.976,3ZM8.106,11.935H23.423v2.553H8.106Zm10.212,6.382H8.106V15.764H18.317Zm5.106-7.659H8.106V8.106H23.423Z" transform="translate(-3 -3)" fill="url(#linear-gradient)"/>
+</svg>

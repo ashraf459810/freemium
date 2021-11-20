@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.362" height="19.36" viewBox="0 0 19.362 19.36">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc137"/>
+      <stop offset="1" stop-color="#e76016"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-upload" data-name="Icon awesome-upload" d="M11.194,14.524H8.169a.905.905,0,0,1-.908-.908V7.263H3.944a.755.755,0,0,1-.533-1.29L9.163.218a.733.733,0,0,1,1.032,0l5.756,5.756a.755.755,0,0,1-.533,1.29H12.1v6.353A.905.905,0,0,1,11.194,14.524Zm8.169-.3v4.236a.905.905,0,0,1-.908.908H.908A.905.905,0,0,1,0,18.457V14.222a.905.905,0,0,1,.908-.908H6.051v.3a2.119,2.119,0,0,0,2.118,2.118h3.025a2.119,2.119,0,0,0,2.118-2.118v-.3h5.143A.905.905,0,0,1,19.362,14.222ZM14.673,17.55a.756.756,0,1,0-.756.756A.759.759,0,0,0,14.673,17.55Zm2.42,0a.756.756,0,1,0-.756.756A.759.759,0,0,0,17.093,17.55Z" transform="translate(0 -0.005)" fill="url(#linear-gradient)"/>
+</svg>

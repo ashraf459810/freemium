@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.33" height="37.033" viewBox="0 0 33.33 37.033">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.854" y1="0.358" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc137"/>
+      <stop offset="1" stop-color="#e76016"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-receipt" data-name="Icon material-receipt" d="M32.275,30.775H10.055v-3.7h22.22Zm0-7.407H10.055v-3.7h22.22Zm0-7.407H10.055v-3.7h22.22ZM4.5,40.033l2.778-2.778,2.778,2.778,2.778-2.778,2.778,2.778,2.778-2.778,2.778,2.778,2.778-2.778,2.778,2.778L29.5,37.256l2.778,2.778,2.778-2.778,2.778,2.778V3L35.053,5.778,32.275,3,29.5,5.778,26.72,3,23.943,5.778,21.165,3,18.388,5.778,15.61,3,12.833,5.778,10.055,3,7.278,5.778,4.5,3Z" transform="translate(-4.5 -3)" fill="url(#linear-gradient)"/>
+</svg>

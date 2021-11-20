@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.042" height="40.056" viewBox="0 0 30.042 40.056">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb100"/>
+      <stop offset="1" stop-color="#ff8f00"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_map-electrician" data-name="Icon map-electrician" d="M33.527,11.568H29.355V2.321a1.67,1.67,0,0,0-3.338,0v9.247H12.665V2.321a1.67,1.67,0,0,0-3.338,0v9.247H5.154c-.461,0-.834.725-.834,1.167v4.006c0,4.806,8.345,10.386,8.345,18.105v2.59H16v3.338h6.676V37.438h3.338v-2.59c0-7.719,8.345-13.3,8.345-18.105V12.736c0-.442-.373-1.167-.834-1.167m-15.1,13.676a.24.24,0,0,0-.247-.324H14.94c-.192,0-.246-.108-.124-.25,0,0,6.68-8.478,6.81-8.641.1-.155.207-.1.173.078-.052.226-1.478,6.01-1.478,6.01-.069.17.031.3.22.3h3.244c.191,0,.252.129.135.274,0,0-6.69,8.68-6.81,8.826s-.233.1-.172-.146l1.491-6.126" transform="translate(-4.32 -0.72)" fill="url(#linear-gradient)"/>
+</svg>

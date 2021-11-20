@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="24.5" viewBox="0 0 28 24.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.04" y1="0.084" x2="0.061" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc137"/>
+      <stop offset="1" stop-color="#e76016"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-security" data-name="Icon material-security" d="M18.5,1.5,4.5,5.955v6.682c0,6.181,5.973,11.96,14,13.364,8.027-1.4,14-7.183,14-13.364V5.955Zm0,12.239H29.389c-.824,4.588-5.1,8.675-10.889,9.956V13.75H7.611V7.4L18.5,3.939Z" transform="translate(-4.5 -1.5)" fill="url(#linear-gradient)"/>
+</svg>

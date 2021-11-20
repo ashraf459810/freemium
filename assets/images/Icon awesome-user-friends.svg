@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42.039" height="29.427" viewBox="0 0 42.039 29.427">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.815" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8dc63f"/>
+      <stop offset="0" stop-color="#ffc137"/>
+      <stop offset="1" stop-color="#e76016"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-user-friends" data-name="Icon awesome-user-friends" d="M12.612,16.964A7.357,7.357,0,1,0,5.255,9.607,7.353,7.353,0,0,0,12.612,16.964Zm5.045,2.1h-.545a10.157,10.157,0,0,1-9,0H7.567A7.569,7.569,0,0,0,0,26.633v1.892a3.154,3.154,0,0,0,3.153,3.153H22.07a3.154,3.154,0,0,0,3.153-3.153V26.633A7.569,7.569,0,0,0,17.656,19.066Zm13.873-2.1a6.306,6.306,0,1,0-6.306-6.306A6.307,6.307,0,0,0,31.529,16.964Zm3.153,2.1h-.25a8.283,8.283,0,0,1-5.807,0h-.25a7.3,7.3,0,0,0-3.659,1.012,9.613,9.613,0,0,1,2.608,6.555v2.522c0,.145-.033.282-.039.42h11.6a3.154,3.154,0,0,0,3.153-3.153,7.353,7.353,0,0,0-7.357-7.357Z" transform="translate(0 -2.25)" fill="url(#linear-gradient)"/>
+</svg>

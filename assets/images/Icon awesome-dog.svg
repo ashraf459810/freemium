@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.42" height="40.706" viewBox="0 0 43.42 40.706">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0c589"/>
+      <stop offset="1" stop-color="#e25700"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_awesome-dog" data-name="Icon awesome-dog" d="M42.063,7.677H36.636l-.607-1.214a2.714,2.714,0,0,0-2.427-1.5H29.054L26.741,2.65a1.357,1.357,0,0,0-2.317.959V16.317l10.855,3.876V17.176h2.714a5.427,5.427,0,0,0,5.428-5.428V9.034A1.357,1.357,0,0,0,42.063,7.677Zm-9.5,4.071a1.357,1.357,0,1,1,1.357-1.357A1.357,1.357,0,0,1,32.565,11.748ZM8.141,18.532a2.717,2.717,0,0,1-2.714-2.714,2.714,2.714,0,0,0-5.428,0A8.127,8.127,0,0,0,5.428,23.46V41.6a1.357,1.357,0,0,0,1.357,1.357h5.428A1.357,1.357,0,0,0,13.569,41.6V32.1H27.138v9.5a1.357,1.357,0,0,0,1.357,1.357h5.428A1.357,1.357,0,0,0,35.279,41.6V23.074L22.562,18.532Z" transform="translate(0 -2.25)" fill="url(#linear-gradient)"/>
+</svg>

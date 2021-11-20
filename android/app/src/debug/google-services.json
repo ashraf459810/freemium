@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254596024980",
+    "project_id": "freemium-316111",
+    "storage_bucket": "freemium-316111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254596024980:android:a6ac1494a9580e7c940281",
+        "android_client_info": {
+          "package_name": "com.example.freemium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254596024980-78iupko2g4r1tu361s36e609ko2geusu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO2zSvuQwSgPoNLyXTSxG1QtTpFj4f0nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254596024980-78iupko2g4r1tu361s36e609ko2geusu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

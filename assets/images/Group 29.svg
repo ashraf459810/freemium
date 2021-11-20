@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="156" viewBox="0 0 136 156">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.929" x2="-0.148" y2="0.129" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e76016"/>
+      <stop offset="1" stop-color="#ffc137"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(-30 -107)">
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="136" height="156" rx="19" transform="translate(30 107)" fill="url(#linear-gradient)"/>
+    <text id="Apartment" transform="translate(61 250)" fill="#fff" font-size="16" font-family="SFProDisplay-Regular, SF Pro Display"><tspan x="0" y="0">Apartment</tspan></text>
+    <path id="Icon_awesome-building" data-name="Icon awesome-building" d="M74.938,82.5H71.5V4.125A4.125,4.125,0,0,0,67.375,0H9.625A4.125,4.125,0,0,0,5.5,4.125V82.5H2.063A2.063,2.063,0,0,0,0,84.563V88H77V84.563A2.063,2.063,0,0,0,74.938,82.5ZM22,13.063A2.063,2.063,0,0,1,24.063,11h6.875A2.063,2.063,0,0,1,33,13.063v6.875A2.063,2.063,0,0,1,30.938,22H24.063A2.063,2.063,0,0,1,22,19.938Zm0,16.5A2.063,2.063,0,0,1,24.063,27.5h6.875A2.063,2.063,0,0,1,33,29.563v6.875A2.063,2.063,0,0,1,30.938,38.5H24.063A2.063,2.063,0,0,1,22,36.438ZM30.938,55H24.063A2.063,2.063,0,0,1,22,52.938V46.063A2.063,2.063,0,0,1,24.063,44h6.875A2.063,2.063,0,0,1,33,46.063v6.875A2.063,2.063,0,0,1,30.938,55ZM44,82.5H33V68.063A2.063,2.063,0,0,1,35.063,66h6.875A2.063,2.063,0,0,1,44,68.063ZM55,52.938A2.063,2.063,0,0,1,52.938,55H46.063A2.063,2.063,0,0,1,44,52.938V46.063A2.063,2.063,0,0,1,46.063,44h6.875A2.063,2.063,0,0,1,55,46.063Zm0-16.5A2.063,2.063,0,0,1,52.938,38.5H46.063A2.063,2.063,0,0,1,44,36.438V29.563A2.063,2.063,0,0,1,46.063,27.5h6.875A2.063,2.063,0,0,1,55,29.563Zm0-16.5A2.063,2.063,0,0,1,52.938,22H46.063A2.063,2.063,0,0,1,44,19.938V13.063A2.063,2.063,0,0,1,46.063,11h6.875A2.063,2.063,0,0,1,55,13.063Z" transform="translate(60 131)" fill="#fff"/>
+  </g>
+</svg>
