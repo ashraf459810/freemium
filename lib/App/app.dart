@@ -4,16 +4,12 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_verification_code/flutter_verification_code.dart';
+
 import 'package:freemium/App/AppLocalizations.dart';
 import 'package:freemium/Core/Consts.dart';
-import 'package:freemium/Model/Communities/Communities.dart';
-import 'package:freemium/UI/Address.dart/Address.dart';
-import 'package:freemium/UI/Home/Home.dart';
-import 'package:freemium/UI/Profile/Profile.dart';
+
 import 'package:freemium/UI/Registeration/bloc/signup_bloc.dart';
 import 'package:freemium/UI/Sign_in/SignIn.dart';
-import 'package:freemium/UI/VerificationCode/VerificationCode.dart';
 
 class App extends StatefulWidget {
   App({Key key}) : super(key: key);
@@ -99,7 +95,7 @@ class _AppState extends State<App> {
                 );
               },
 
-              home: Home(),
+              home: SignIn(),
             )));
   }
 

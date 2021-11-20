@@ -235,8 +235,8 @@ class _LoginState extends State<Login> {
                       left: ScreenUtil().setWidth(24),
                       child: InkWell(
                         onTap: () {
-                          final result = _formKey.currentState.validate();
-                          final result2 = _formKey2.currentState.validate();
+                          // final result = _formKey.currentState.validate();
+                          // final result2 = _formKey2.currentState.validate();
                           // if (result && result2) {
                           context
                               .read<LoginBloc>()
